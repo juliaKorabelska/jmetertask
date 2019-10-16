@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1571228888297,1171,getRequestStep1,200,OK,Thread Group 1-1,text,true,,6277,121,1,1,https://challengers.flood.io/,1170,0,930
+1571228889878,1541,postRequestPressStart,200,OK,Thread Group 1-1,text,true,,6938,2769,1,1,https://challengers.flood.io:443/step/2,226,0,0
+1571228889878,227,postRequestPressStart-0,302,Found,Thread Group 1-1,text,true,,1055,1155,1,1,https://challengers.flood.io/start,226,0,0
+1571228890108,426,postRequestPressStart-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/2,426,0,215
+1571228890537,882,postRequestPressStart-2,200,OK,Thread Group 1-1,text,true,,5521,809,1,1,https://challengers.flood.io:443/step/2,881,0,654
+1571228887840,2712,Step1,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13215,2890,1,1,null,1396,867,930
+1571228891823,899,getRequestStep2,200,OK,Thread Group 1-1,text,true,,5521,805,1,1,https://challengers.flood.io/step/2,899,0,665
+1571228893026,1526,postRequestSelectAge,200,OK,Thread Group 1-1,text,true,,8126,2791,1,1,https://challengers.flood.io:443/step/3,229,0,0
+1571228893026,230,postRequestSelectAge-0,302,Found,Thread Group 1-1,text,true,,1055,1177,1,1,https://challengers.flood.io/start,229,0,0
+1571228893257,423,postRequestSelectAge-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/3,423,0,210
+1571228893681,871,postRequestSelectAge-2,200,OK,Thread Group 1-1,text,true,,6709,809,1,1,https://challengers.flood.io:443/step/3,870,0,644
+1571228891421,2425,Step2,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13647,3596,1,1,null,1128,707,665
+1571228895155,887,getRequestStep3,200,OK,Thread Group 1-1,text,true,,6722,805,1,1,https://challengers.flood.io/step/3,887,0,654
+1571228896645,1538,postRequestLargestOrderValue,200,OK,Thread Group 1-1,text,true,,5185,2946,1,1,https://challengers.flood.io:443/step/4,216,0,0
+1571228896645,216,postRequestLargestOrderValue-0,302,Found,Thread Group 1-1,text,true,,1055,1332,1,1,https://challengers.flood.io/start,216,0,0
+1571228896862,419,postRequestLargestOrderValue-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/4,419,0,209
+1571228897282,901,postRequestLargestOrderValue-2,200,OK,Thread Group 1-1,text,true,,3768,809,1,1,https://challengers.flood.io:443/step/4,901,0,668
+1571228894553,2425,Step3,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,11907,3751,1,1,null,1103,1209,654
+1571228898787,2207,PostRequestStep4,200,OK,Thread Group 1-1,text,true,,4685,3122,1,1,https://challengers.flood.io:443/step/5,875,0,655
+1571228898787,875,PostRequestStep4-0,302,Found,Thread Group 1-1,text,true,,1055,1508,1,1,https://challengers.flood.io/start,875,0,655
+1571228899663,433,PostRequestStep4-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/5,433,0,215
+1571228900097,897,PostRequestStep4-2,200,OK,Thread Group 1-1,text,true,,3268,809,1,1,https://challengers.flood.io:443/step/5,896,0,667
+1571228898187,2207,Step4,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,4685,3122,1,1,null,875,602,655
+1571228901297,888,ajaxRequestForToken,200,OK,Thread Group 1-1,text,true,,1024,803,1,1,https://challengers.flood.io/code,888,0,668
+1571228902512,1538,postRequestOneTimeToken,200,OK,Thread Group 1-1,text,true,,4197,2806,1,1,https://challengers.flood.io:443/done,226,0,0
+1571228902512,227,postRequestOneTimeToken-0,302,Found,Thread Group 1-1,text,true,,1051,1196,1,1,https://challengers.flood.io/start,226,0,0
+1571228902740,437,postRequestOneTimeToken-1,301,Moved Permanently,Thread Group 1-1,text,true,,360,803,1,1,http://challengers.flood.io/done,437,0,219
+1571228903177,872,postRequestOneTimeToken-2,200,OK,Thread Group 1-1,text,true,,2786,807,1,1,https://challengers.flood.io:443/done,872,0,651
+1571228900996,2426,Step5,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,5221,3609,1,1,null,1114,629,668
+1571228904356,1,debugSampler,200,OK,Thread Group 1-1,text,true,,6750,0,1,1,null,0,0,0
+1571228937943,1149,getRequestStep1,200,OK,Thread Group 1-1,text,true,,6277,121,1,1,https://challengers.flood.io/,1148,0,908
+1571228939506,1561,postRequestPressStart,200,OK,Thread Group 1-1,text,true,,6938,2773,1,1,https://challengers.flood.io:443/step/2,229,0,0
+1571228939506,229,postRequestPressStart-0,302,Found,Thread Group 1-1,text,true,,1055,1159,1,1,https://challengers.flood.io/start,229,0,0
+1571228939741,426,postRequestPressStart-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/2,426,0,214
+1571228940169,898,postRequestPressStart-2,200,OK,Thread Group 1-1,text,true,,5521,809,1,1,https://challengers.flood.io:443/step/2,897,0,669
+1571228937486,2710,Step1,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13215,2894,1,1,null,1377,873,908
+1571228941471,885,getRequestStep2,200,OK,Thread Group 1-1,text,true,,5521,805,1,1,https://challengers.flood.io/step/2,884,0,652
+1571228942658,1563,postRequestSelectAge,200,OK,Thread Group 1-1,text,true,,8127,2795,1,1,https://challengers.flood.io:443/step/3,228,0,0
+1571228942658,229,postRequestSelectAge-0,302,Found,Thread Group 1-1,text,true,,1055,1181,1,1,https://challengers.flood.io/start,228,0,0
+1571228942888,421,postRequestSelectAge-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/3,421,0,209
+1571228943310,911,postRequestSelectAge-2,200,OK,Thread Group 1-1,text,true,,6710,809,1,1,https://challengers.flood.io:443/step/3,910,0,672
+1571228941070,2448,Step2,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13648,3600,1,1,null,1112,704,652
+1571228944823,964,getRequestStep3,200,OK,Thread Group 1-1,text,true,,6712,805,1,1,https://challengers.flood.io/step/3,964,0,673
+1571228946390,1542,postRequestLargestOrderValue,200,OK,Thread Group 1-1,text,true,,5189,2950,1,1,https://challengers.flood.io:443/step/4,229,0,0
+1571228946390,229,postRequestLargestOrderValue-0,302,Found,Thread Group 1-1,text,true,,1055,1336,1,1,https://challengers.flood.io/start,229,0,0
+1571228946620,441,postRequestLargestOrderValue-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/4,441,0,219
+1571228947062,870,postRequestLargestOrderValue-2,200,OK,Thread Group 1-1,text,true,,3772,809,1,1,https://challengers.flood.io:443/step/4,870,0,652
+1571228944222,2506,Step3,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,11901,3755,1,1,null,1193,1205,673
+1571228948533,2206,PostRequestStep4,200,OK,Thread Group 1-1,text,true,,4685,3128,1,1,https://challengers.flood.io:443/step/5,893,0,671
+1571228948533,894,PostRequestStep4-0,302,Found,Thread Group 1-1,text,true,,1055,1514,1,1,https://challengers.flood.io/start,893,0,671
+1571228949428,433,PostRequestStep4-1,301,Moved Permanently,Thread Group 1-1,text,true,,362,805,1,1,http://challengers.flood.io/step/5,432,0,215
+1571228949861,878,PostRequestStep4-2,200,OK,Thread Group 1-1,text,true,,3268,809,1,1,https://challengers.flood.io:443/step/5,877,0,657
+1571228947933,2206,Step4,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,4685,3128,1,1,null,893,602,671
+1571228951042,884,ajaxRequestForToken,200,OK,Thread Group 1-1,text,true,,1024,803,1,1,https://challengers.flood.io/code,884,0,661
+1571228952253,1548,postRequestOneTimeToken,200,OK,Thread Group 1-1,text,true,,4197,2810,1,1,https://challengers.flood.io:443/done,221,0,0
+1571228952253,221,postRequestOneTimeToken-0,302,Found,Thread Group 1-1,text,true,,1051,1200,1,1,https://challengers.flood.io/start,221,0,0
+1571228952475,427,postRequestOneTimeToken-1,301,Moved Permanently,Thread Group 1-1,text,true,,360,803,1,1,http://challengers.flood.io/done,427,0,212
+1571228952902,898,postRequestOneTimeToken-2,200,OK,Thread Group 1-1,text,true,,2786,807,1,1,https://challengers.flood.io:443/done,898,0,666
+1571228950741,2432,Step5,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,5221,3613,1,1,null,1105,630,661
+1571228954108,1,debugSampler,200,OK,Thread Group 1-1,text,true,,6756,0,1,1,null,0,0,0
